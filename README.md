@@ -4,6 +4,7 @@ LoRaWAN Micrchip RN2483 libraries for Arduino
 ## What is this?
 
 This is a library for the Microchip RN2493 LoRaWAN for Arduino.
+This code has been tested with the Xbee-compatible SODAQ RN2483 module by SODAQ.
 
 - All coments, suggestions, bug reports are welcome
 
